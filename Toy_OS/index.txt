@@ -1,1 +1,1 @@
-[[Link Text|http://www.independent-software.com/writing-your-own-toy-operating-system/]]
+[[ToyOS]] [[http://www.independent-software.com/writing-your-own-toy-operating-system/]]
