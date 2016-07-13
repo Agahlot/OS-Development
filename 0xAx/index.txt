@@ -1,1 +1,1 @@
-[[Link Text|https://0xax.gitbooks.io/linux-insides/content/index.html]]
+[[0xAx]] [[https://0xax.gitbooks.io/linux-insides/content/index.html]]
