@@ -1,0 +1,7 @@
+gcc -c -g -Os -m32 -march=i686 -ffreestanding -Wall -Werror -I. -o bootloader.o bootloader.c
+
+ld -melf_i386 -static -Tlinker.ld -nostdlib --nmagic -o bootloader.elf bootloader.o
+
+objcopy -O binary bootloader.elf bootloader.bin
+
+
